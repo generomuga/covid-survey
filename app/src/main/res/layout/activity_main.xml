@@ -31,6 +31,11 @@
             android:layout_height="wrap_content"
             android:hint="Birthdate"/>
 
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contact number"/>
+
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -40,7 +45,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
-            android:text="v.2.0.0"/>
+            android:text="v.3.0.0"/>
 
     </LinearLayout>
 
