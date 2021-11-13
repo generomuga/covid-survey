@@ -31,6 +31,12 @@
             android:layout_height="wrap_content"
             android:text="Save"/>
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:text="v.1.0.0"/>
+
     </LinearLayout>
 
 </RelativeLayout>
